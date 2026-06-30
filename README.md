@@ -1,6 +1,6 @@
 # AutoRent System
 
-This repository contains a standalone, terminal-based CRUD application developed in C++ to manage a car rental service. It features a custom flat-file database, role-based access control, and dynamic business logic without external dependencies.
+This repository contains my self project on developing a Car Rental System.
 
 ---
 
